@@ -1,0 +1,17 @@
+{
+  "name": "tacticalbot",
+  "version": "1.0.1",
+  "description": "",
+  "main": "indexgoogle.js",
+  "scripts": {
+    "start": "node indexgoogle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.9"
+  }
+}
